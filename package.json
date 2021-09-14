@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-course-starter",
+  "name": "complete-intro-to-web-development-v3",
   "description": "a gatsby seed project to get your education site started",
   "version": "1.0.0",
-  "author": "Brian Holt <btholt+course-starter@gmail.com>",
+  "author": "Brian Holt <btholt+web-v3@gmail.com>",
   "dependencies": {
     "@fontsource/open-sans": "^4.5.0",
     "@fortawesome/fontawesome-free": "^5.15.4",
